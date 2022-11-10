@@ -1,5 +1,8 @@
-class Demo(){
-psvm(){
-soop("git demo");
-}
+class Demo
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hello");
+
+	}	
 }
